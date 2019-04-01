@@ -1,0 +1,2 @@
+# React_CreateClassVsExtentComponent
+component
