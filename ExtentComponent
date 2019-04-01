@@ -1,0 +1,10 @@
+ var Yontem1=React.createClass({
+        render:function(){
+          return (<p>Birinci Tanımlama Şekli.</p>)
+        }
+    })
+class Yontem2 extends React.Component {
+    render() {
+       return(<p>İkinci Tanımlama Şekli.</p>);
+    }
+}
